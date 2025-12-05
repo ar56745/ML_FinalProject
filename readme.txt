@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:88b3e517fe9bf0a1ae59b8a6f3b707aec0811409244ce47fa7937cc2aa26b9e3
-size 292
+Team Member(s): Prithvi Suresh
+Github Username: ar56745
+
+This was an individual project. 
+The authors' source code was too big and had a few issues while running, so I replicated the results of the
+paper seperately on a few chosen datasets, according to the methodologies used in the paper.
